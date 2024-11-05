@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oqijeama.github.io/Kwo/sitemap_index.txt
+Sitemap: https://oqijeama.github.io/asV/sitemap_index.txt
+Sitemap: https://oqijeama.github.io/eqN/sitemap_index.txt
+Sitemap: https://oqijeama.github.io/urJ/sitemap_index.txt
